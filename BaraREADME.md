@@ -1,3 +1,3 @@
-# PD_Bara
+# BaraPD_Bara
 Patstāvīgais praktiskais darbs programmēšanā
 Patstāvīgais darbs platformā GitHub ar versiju kontroles sistēmu Git
